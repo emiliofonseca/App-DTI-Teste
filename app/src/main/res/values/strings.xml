@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DtiTest</string>
+    <string name="enter_valid_username">Enter a valid username</string>
+    <string name="enter_valid_password">Enter a valid password</string>
+</resources>
